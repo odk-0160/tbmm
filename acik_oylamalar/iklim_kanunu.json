@@ -1,1 +1,2621 @@
-
+{
+  "oylama_sonucu": {
+    "teklif": "İklim Kanunu Teklifi",
+    "kabul_edenler": [
+      {
+        "isim_soyisim": "Abdulkadir AKGÜL",
+        "parti": "AK Parti",
+        "sehir": "Yozgat"
+      },
+      {
+        "isim_soyisim": "Abdulkadir Emin ÖNEN",
+        "parti": "AK Parti",
+        "sehir": "Şanlıurfa"
+      },
+      {
+        "isim_soyisim": "Abdulkadir ÖZEL",
+        "parti": "AK Parti",
+        "sehir": "Hatay"
+      },
+      {
+        "isim_soyisim": "Abdullah AĞRALI",
+        "parti": "AK Parti",
+        "sehir": "Konya"
+      },
+      {
+        "isim_soyisim": "Abdullah DOĞRU",
+        "parti": "AK Parti",
+        "sehir": "Adana"
+      },
+      {
+        "isim_soyisim": "Abdullah GÜLER",
+        "parti": "AK Parti",
+        "sehir": "Sivas"
+      },
+      {
+        "isim_soyisim": "Abdurrahim FIRAT",
+        "parti": "AK Parti",
+        "sehir": "Erzurum"
+      },
+      {
+        "isim_soyisim": "Abdurrahman BAŞKAN",
+        "parti": "MHP",
+        "sehir": "Antalya"
+      },
+      {
+        "isim_soyisim": "Abdülrahim DUSAK",
+        "parti": "AK Parti",
+        "sehir": "Şanlıurfa"
+      },
+      {
+        "isim_soyisim": "Adem ÇALKIN",
+        "parti": "AK Parti",
+        "sehir": "Kars"
+      },
+      {
+        "isim_soyisim": "Adem KORKMAZ",
+        "parti": "AK Parti",
+        "sehir": "Burdur"
+      },
+      {
+        "isim_soyisim": "Adem YEŞİLDAL",
+        "parti": "AK Parti",
+        "sehir": "Hatay"
+      },
+      {
+        "isim_soyisim": "Adem YILDIRIM",
+        "parti": "AK Parti",
+        "sehir": "İstanbul"
+      },
+      {
+        "isim_soyisim": "Adil BİÇER",
+        "parti": "AK Parti",
+        "sehir": "Kütahya"
+      },
+      {
+        "isim_soyisim": "Adil KARAİSMAİLOĞLU",
+        "parti": "AK Parti",
+        "sehir": "Trabzon"
+      },
+      {
+        "isim_soyisim": "Ahmet ÇOLAKOĞLU",
+        "parti": "AK Parti",
+        "sehir": "Zonguldak"
+      },
+      {
+        "isim_soyisim": "Ahmet ERBAŞ",
+        "parti": "MHP",
+        "sehir": "Kütahya"
+      },
+      {
+        "isim_soyisim": "Ahmet Ersagun YÜCEL",
+        "parti": "AK Parti",
+        "sehir": "İstanbul"
+      },
+      {
+        "isim_soyisim": "Ahmet Fethan BAYKOÇ",
+        "parti": "AK Parti",
+        "sehir": "Ankara"
+      },
+      {
+        "isim_soyisim": "Ahmet Gökhan SARIÇAM",
+        "parti": "AK Parti",
+        "sehir": "Kırklareli"
+      },
+      {
+        "isim_soyisim": "Ahmet KILIÇ",
+        "parti": "AK Parti",
+        "sehir": "Bursa"
+      },
+      {
+        "isim_soyisim": "Ahmet ÖZYÜREK",
+        "parti": "MHP",
+        "sehir": "Sivas"
+      },
+      {
+        "isim_soyisim": "Ahmet Salih DAL",
+        "parti": "AK Parti",
+        "sehir": "Kilis"
+      },
+      {
+        "isim_soyisim": "Ali İNCİ",
+        "parti": "AK Parti",
+        "sehir": "Sakarya"
+      },
+      {
+        "isim_soyisim": "Ali KIRATLI",
+        "parti": "AK Parti",
+        "sehir": "Mersin"
+      },
+      {
+        "isim_soyisim": "Ali ÖZKAYA",
+        "parti": "AK Parti",
+        "sehir": "Afyonkarahisar"
+      },
+      {
+        "isim_soyisim": "Ali ŞAHİN",
+        "parti": "AK Parti",
+        "sehir": "Gaziantep"
+      },
+      {
+        "isim_soyisim": "Ali Taylan ÖZTAYLAN",
+        "parti": "AK Parti",
+        "sehir": "Balıkesir"
+      },
+      {
+        "isim_soyisim": "Ali TEMÜR",
+        "parti": "AK Parti",
+        "sehir": "Giresun"
+      },
+      {
+        "isim_soyisim": "Arslan TATAR",
+        "parti": "AK Parti",
+        "sehir": "Şırnak"
+      },
+      {
+        "isim_soyisim": "Asuman ERDOĞAN",
+        "parti": "AK Parti",
+        "sehir": "Ankara"
+      },
+      {
+        "isim_soyisim": "Atay USLU",
+        "parti": "AK Parti",
+        "sehir": "Antalya"
+      },
+      {
+        "isim_soyisim": "Ayhan SALMAN",
+        "parti": "AK Parti",
+        "sehir": "Bursa"
+      },
+      {
+        "isim_soyisim": "Ayşe BÖHÜRLER",
+        "parti": "AK Parti",
+        "sehir": "Kayseri"
+      },
+      {
+        "isim_soyisim": "Ayşe KEŞİR",
+        "parti": "AK Parti",
+        "sehir": "Düzce"
+      },
+      {
+        "isim_soyisim": "Ayşe Sibel ERSOY",
+        "parti": "MHP",
+        "sehir": "Adana"
+      },
+      {
+        "isim_soyisim": "Azmi EKİNCİ",
+        "parti": "AK Parti",
+        "sehir": "İstanbul"
+      },
+      {
+        "isim_soyisim": "Bahadır Nahit YENİŞEHİRLİOĞLU",
+        "parti": "AK Parti",
+        "sehir": "Manisa"
+      },
+      {
+        "isim_soyisim": "Bayram ŞENOCAK",
+        "parti": "AK Parti",
+        "sehir": "İstanbul"
+      },
+      {
+        "isim_soyisim": "Behiye EKER",
+        "parti": "AK Parti",
+        "sehir": "İstanbul"
+      },
+      {
+        "isim_soyisim": "Burhan KAYATÜRK",
+        "parti": "AK Parti",
+        "sehir": "Van"
+      },
+      {
+        "isim_soyisim": "Bülent TÜFENKCİ",
+        "parti": "AK Parti",
+        "sehir": "Malatya"
+      },
+      {
+        "isim_soyisim": "Bünyamin BOZGEYİK",
+        "parti": "AK Parti",
+        "sehir": "Gaziantep"
+      },
+      {
+        "isim_soyisim": "Büşra PAKER",
+        "parti": "AK Parti",
+        "sehir": "İstanbul"
+      },
+      {
+        "isim_soyisim": "Cahit ÖZKAN",
+        "parti": "AK Parti",
+        "sehir": "Denizli"
+      },
+      {
+        "isim_soyisim": "Cantürk ALAGÖZ",
+        "parti": "AK Parti",
+        "sehir": "Iğdır"
+      },
+      {
+        "isim_soyisim": "Celalettin KÖSE",
+        "parti": "AK Parti",
+        "sehir": "Gümüşhane"
+      },
+      {
+        "isim_soyisim": "Cem ŞAHİN",
+        "parti": "AK Parti",
+        "sehir": "Karabük"
+      },
+      {
+        "isim_soyisim": "Cemil YAMAN",
+        "parti": "AK Parti",
+        "sehir": "Kocaeli"
+      },
+      {
+        "isim_soyisim": "Cengiz AYDOĞDU",
+        "parti": "AK Parti",
+        "sehir": "Aksaray"
+      },
+      {
+        "isim_soyisim": "Cevahir Asuman YAZMACI",
+        "parti": "AK Parti",
+        "sehir": "Şanlıurfa"
+      },
+      {
+        "isim_soyisim": "Cevahir UZKURT",
+        "parti": "AK Parti",
+        "sehir": "Niğde"
+      },
+      {
+        "isim_soyisim": "Ceyda BÖLÜNMEZ ÇANKIRI",
+        "parti": "AK Parti",
+        "sehir": "İzmir"
+      },
+      {
+        "isim_soyisim": "Cumali İNCE",
+        "parti": "MHP",
+        "sehir": "Niğde"
+      },
+      {
+        "isim_soyisim": "Cüneyt ALDEMİR",
+        "parti": "AK Parti",
+        "sehir": "Tokat"
+      },
+      {
+        "isim_soyisim": "Cüneyt YÜKSEL",
+        "parti": "AK Parti",
+        "sehir": "İstanbul"
+      },
+      {
+        "isim_soyisim": "Çiğdem KARAASLAN",
+        "parti": "AK Parti",
+        "sehir": "Samsun"
+      },
+      {
+        "isim_soyisim": "Çiğdem KONCAGÜL",
+        "parti": "AK Parti",
+        "sehir": "Tekirdağ"
+      },
+      {
+        "isim_soyisim": "Derya AYAYDIN",
+        "parti": "AK Parti",
+        "sehir": "İstanbul"
+      },
+      {
+        "isim_soyisim": "Derya BAKBAK",
+        "parti": "AK Parti",
+        "sehir": "Gaziantep"
+      },
+      {
+        "isim_soyisim": "Durmuş Ali KESKİNKILIÇ",
+        "parti": "AK Parti",
+        "sehir": "Karabük"
+      },
+      {
+        "isim_soyisim": "Dursun ATAŞ",
+        "parti": "AK Parti",
+        "sehir": "Kayseri"
+      },
+      {
+        "isim_soyisim": "Ejder AÇIKKAPI",
+        "parti": "AK Parti",
+        "sehir": "Elazığ"
+      },
+      {
+        "isim_soyisim": "Ekrem Gökay YÜKSEL",
+        "parti": "MHP",
+        "sehir": "Balıkesir"
+      },
+      {
+        "isim_soyisim": "Emel Gözükara DURMAZ",
+        "parti": "AK Parti",
+        "sehir": "Bursa"
+      },
+      {
+        "isim_soyisim": "Emine YAVUZ GÖZGEÇ",
+        "parti": "AK Parti",
+        "sehir": "Bursa"
+      },
+      {
+        "isim_soyisim": "Emre ÇALIŞKAN",
+        "parti": "AK Parti",
+        "sehir": "Nevşehir"
+      },
+      {
+        "isim_soyisim": "Ercan ÖZTÜRK",
+        "parti": "AK Parti",
+        "sehir": "Düzce"
+      },
+      {
+        "isim_soyisim": "Erkan AKÇAY",
+        "parti": "MHP",
+        "sehir": "Manisa"
+      },
+      {
+        "isim_soyisim": "Erol KELEŞ",
+        "parti": "AK Parti",
+        "sehir": "Elazığ"
+      },
+      {
+        "isim_soyisim": "Ersan AKSU",
+        "parti": "AK Parti",
+        "sehir": "Samsun"
+      },
+      {
+        "isim_soyisim": "Ertuğrul Gazi KONAL",
+        "parti": "MHP",
+        "sehir": "Giresun"
+      },
+      {
+        "isim_soyisim": "Ertuğrul KOCACIK",
+        "parti": "AK Parti",
+        "sehir": "Sakarya"
+      },
+      {
+        "isim_soyisim": "Faruk AYTEK",
+        "parti": "AK Parti",
+        "sehir": "Adana"
+      },
+      {
+        "isim_soyisim": "Faruk ÇELİK",
+        "parti": "AK Parti",
+        "sehir": "Artvin"
+      },
+      {
+        "isim_soyisim": "Faruk KILIÇ",
+        "parti": "AK Parti",
+        "sehir": "Mardin"
+      },
+      {
+        "isim_soyisim": "Fatma AKSAL",
+        "parti": "AK Parti",
+        "sehir": "Edirne"
+      },
+      {
+        "isim_soyisim": "Fatma ÖNCÜ",
+        "parti": "AK Parti",
+        "sehir": "Erzurum"
+      },
+      {
+        "isim_soyisim": "Fehmi Alpay ÖZALAN",
+        "parti": "AK Parti",
+        "sehir": "İzmir"
+      },
+      {
+        "isim_soyisim": "Ferhat NASIROĞLU",
+        "parti": "AK Parti",
+        "sehir": "Batman"
+      },
+      {
+        "isim_soyisim": "Fevzi ZIRHLIOĞLU",
+        "parti": "MHP",
+        "sehir": "Bursa"
+      },
+      {
+        "isim_soyisim": "Feyzi BERDİBEK",
+        "parti": "AK Parti",
+        "sehir": "Bingöl"
+      },
+      {
+        "isim_soyisim": "Gökhan DİKTAŞ",
+        "parti": "AK Parti",
+        "sehir": "Tekirdağ"
+      },
+      {
+        "isim_soyisim": "Hakan AKSU",
+        "parti": "AK Parti",
+        "sehir": "Sivas"
+      },
+      {
+        "isim_soyisim": "Halil ELDEMİR",
+        "parti": "AK Parti",
+        "sehir": "Bilecik"
+      },
+      {
+        "isim_soyisim": "Halil ÖZTÜRK",
+        "parti": "MHP",
+        "sehir": "Kırıkkale"
+      },
+      {
+        "isim_soyisim": "Halil ULUAY",
+        "parti": "AK Parti",
+        "sehir": "Kastamonu"
+      },
+      {
+        "isim_soyisim": "Halit YEREBAKAN",
+        "parti": "AK Parti",
+        "sehir": "İstanbul"
+      },
+      {
+        "isim_soyisim": "Haluk İPEK",
+        "parti": "AK Parti",
+        "sehir": "Amasya"
+      },
+      {
+        "isim_soyisim": "Harun MERTOĞLU",
+        "parti": "AK Parti",
+        "sehir": "Rize"
+      },
+      {
+        "isim_soyisim": "Hasan ARSLAN",
+        "parti": "AK Parti",
+        "sehir": "Afyonkarahisar"
+      },
+      {
+        "isim_soyisim": "Hasan ÇİLEZ",
+        "parti": "AK Parti",
+        "sehir": "Amasya"
+      },
+      {
+        "isim_soyisim": "Hasan EKİCİ",
+        "parti": "AK Parti",
+        "sehir": "Konya"
+      },
+      {
+        "isim_soyisim": "Hasan TURAN",
+        "parti": "AK Parti",
+        "sehir": "İstanbul"
+      },
+      {
+        "isim_soyisim": "Havva Sibel SÖYLEMEZ",
+        "parti": "AK Parti",
+        "sehir": "Mersin"
+      },
+      {
+        "isim_soyisim": "Hikmet BAŞAK",
+        "parti": "AK Parti",
+        "sehir": "Şanlıurfa"
+      },
+      {
+        "isim_soyisim": "Hilmi DURGUN",
+        "parti": "MHP",
+        "sehir": "Antalya"
+      },
+      {
+        "isim_soyisim": "Hüseyin ALTINSOY",
+        "parti": "AK Parti",
+        "sehir": "Aksaray"
+      },
+      {
+        "isim_soyisim": "Hüseyin ÖZHAN",
+        "parti": "AK Parti",
+        "sehir": "Adıyaman"
+      },
+      {
+        "isim_soyisim": "İbrahim Ethem SEDEF",
+        "parti": "MHP",
+        "sehir": "Yozgat"
+      },
+      {
+        "isim_soyisim": "İbrahim Ethem TAŞ",
+        "parti": "AK Parti",
+        "sehir": "Antalya"
+      },
+      {
+        "isim_soyisim": "İbrahim EYYÜPOĞLU",
+        "parti": "AK Parti",
+        "sehir": "Şanlıurfa"
+      },
+      {
+        "isim_soyisim": "İbrahim ÖZYAVUZ",
+        "parti": "MHP",
+        "sehir": "Şanlıurfa"
+      },
+      {
+        "isim_soyisim": "İbrahim Ufuk KAYNAK",
+        "parti": "AK Parti",
+        "sehir": "Ordu"
+      },
+      {
+        "isim_soyisim": "İbrahim YURDUNUSEVEN",
+        "parti": "AK Parti",
+        "sehir": "Afyonkarahisar"
+      },
+      {
+        "isim_soyisim": "İdris Nebi HATİPOĞLU",
+        "parti": "AK Parti",
+        "sehir": "Eskişehir"
+      },
+      {
+        "isim_soyisim": "İhsan KOCA",
+        "parti": "AK Parti",
+        "sehir": "Malatya"
+      },
+      {
+        "isim_soyisim": "İrfan ÇELİKASLAN",
+        "parti": "AK Parti",
+        "sehir": "Gaziantep"
+      },
+      {
+        "isim_soyisim": "İshak ŞAN",
+        "parti": "AK Parti",
+        "sehir": "Adıyaman"
+      },
+      {
+        "isim_soyisim": "İsmail Emrah KARAYEL",
+        "parti": "AK Parti",
+        "sehir": "İstanbul"
+      },
+      {
+        "isim_soyisim": "İsmail ERDEM",
+        "parti": "AK Parti",
+        "sehir": "İstanbul"
+      },
+      {
+        "isim_soyisim": "İsmail GÜNEŞ",
+        "parti": "AK Parti",
+        "sehir": "Uşak"
+      },
+      {
+        "isim_soyisim": "Jülide SARIEROĞLU",
+        "parti": "AK Parti",
+        "sehir": "Ankara"
+      },
+      {
+        "isim_soyisim": "Kaan KOÇ",
+        "parti": "AK Parti",
+        "sehir": "Ardahan"
+      },
+      {
+        "isim_soyisim": "Kadem METE",
+        "parti": "AK Parti",
+        "sehir": "Muğla"
+      },
+      {
+        "isim_soyisim": "Kayhan TÜRKMENOĞLU",
+        "parti": "AK Parti",
+        "sehir": "Van"
+      },
+      {
+        "isim_soyisim": "Kemal KARAHAN",
+        "parti": "AK Parti",
+        "sehir": "Hatay"
+      },
+      {
+        "isim_soyisim": "Konur Alp KOÇAK",
+        "parti": "MHP",
+        "sehir": "Konya"
+      },
+      {
+        "isim_soyisim": "Latif SELVİ",
+        "parti": "AK Parti",
+        "sehir": "Konya"
+      },
+      {
+        "isim_soyisim": "Levent UYSAL",
+        "parti": "MHP",
+        "sehir": "Mersin"
+      },
+      {
+        "isim_soyisim": "Lütfi BAYRAKTAR",
+        "parti": "AK Parti",
+        "sehir": "Sakarya"
+      },
+      {
+        "isim_soyisim": "Lütfi KAŞIKÇI",
+        "parti": "MHP",
+        "sehir": "Hatay"
+      },
+      {
+        "isim_soyisim": "Lütfiye Selva ÇAM",
+        "parti": "AK Parti",
+        "sehir": "Ankara"
+      },
+      {
+        "isim_soyisim": "Mahmut Atilla KAYA",
+        "parti": "AK Parti",
+        "sehir": "İzmir"
+      },
+      {
+        "isim_soyisim": "Mahmut Rıdvan NAZIRLI",
+        "parti": "AK Parti",
+        "sehir": "Elazığ"
+      },
+      {
+        "isim_soyisim": "Mehmet Ali CEVHERİ",
+        "parti": "AK Parti",
+        "sehir": "Şanlıurfa"
+      },
+      {
+        "isim_soyisim": "Mehmet Ali ÇELEBİ",
+        "parti": "AK Parti",
+        "sehir": "İzmir"
+      },
+      {
+        "isim_soyisim": "Mehmet BAYKAN",
+        "parti": "AK Parti",
+        "sehir": "Konya"
+      },
+      {
+        "isim_soyisim": "Mehmet DEMİR",
+        "parti": "AK Parti",
+        "sehir": "Kütahya"
+      },
+      {
+        "isim_soyisim": "Mehmet Emin ÖZ",
+        "parti": "AK Parti",
+        "sehir": "Erzurum"
+      },
+      {
+        "isim_soyisim": "Mehmet Emin ŞİMŞEK",
+        "parti": "AK Parti",
+        "sehir": "Muş"
+      },
+      {
+        "isim_soyisim": "Mehmet Eyup ÖZKEÇECİ",
+        "parti": "AK Parti",
+        "sehir": "Gaziantep"
+      },
+      {
+        "isim_soyisim": "Mehmet Faruk PINARBAŞI",
+        "parti": "AK Parti",
+        "sehir": "Şanlıurfa"
+      },
+      {
+        "isim_soyisim": "Mehmet Galip ENSARİOĞLU",
+        "parti": "AK Parti",
+        "sehir": "Diyarbakır"
+      },
+      {
+        "isim_soyisim": "Mehmet Muharrem KASAPOĞLU",
+        "parti": "AK Parti",
+        "sehir": "İzmir"
+      },
+      {
+        "isim_soyisim": "Mehmet Sait YAZ",
+        "parti": "AK Parti",
+        "sehir": "Diyarbakır"
+      },
+      {
+        "isim_soyisim": "Mehmet Selim ENSARİOĞLU",
+        "parti": "AK Parti",
+        "sehir": "İstanbul"
+      },
+      {
+        "isim_soyisim": "Mehmet ŞAHİN",
+        "parti": "AK Parti",
+        "sehir": "Kahramanmaraş"
+      },
+      {
+        "isim_soyisim": "Mehmet TAYTAK",
+        "parti": "MHP",
+        "sehir": "Afyonkarahisar"
+      },
+      {
+        "isim_soyisim": "Mehmet Uğur GÖKGÖZ",
+        "parti": "AK Parti",
+        "sehir": "Isparta"
+      },
+      {
+        "isim_soyisim": "Meliha AKYOL",
+        "parti": "AK Parti",
+        "sehir": "Yalova"
+      },
+      {
+        "isim_soyisim": "Mervan GÜL",
+        "parti": "AK Parti",
+        "sehir": "Siirt"
+      },
+      {
+        "isim_soyisim": "Meryem GÖKA",
+        "parti": "AK Parti",
+        "sehir": "Konya"
+      },
+      {
+        "isim_soyisim": "Mestan ÖZCAN",
+        "parti": "AK Parti",
+        "sehir": "Tekirdağ"
+      },
+      {
+        "isim_soyisim": "Mesut BOZATLI",
+        "parti": "AK Parti",
+        "sehir": "Gaziantep"
+      },
+      {
+        "isim_soyisim": "Mevlüt ÇAVUŞOĞLU",
+        "parti": "AK Parti",
+        "sehir": "Antalya"
+      },
+      {
+        "isim_soyisim": "Mevlüt KARAKAYA",
+        "parti": "MHP",
+        "sehir": "Ankara"
+      },
+      {
+        "isim_soyisim": "Muhammed AVCI",
+        "parti": "AK Parti",
+        "sehir": "Rize"
+      },
+      {
+        "isim_soyisim": "Muhammet Müfit AYDIN",
+        "parti": "AK Parti",
+        "sehir": "Bursa"
+      },
+      {
+        "isim_soyisim": "Muharrem VARLI",
+        "parti": "MHP",
+        "sehir": "Adana"
+      },
+      {
+        "isim_soyisim": "Murat ALPARSLAN",
+        "parti": "AK Parti",
+        "sehir": "Ankara"
+      },
+      {
+        "isim_soyisim": "Murat Cahid CINGI",
+        "parti": "AK Parti",
+        "sehir": "Kayseri"
+      },
+      {
+        "isim_soyisim": "Murat KAYA",
+        "parti": "AK Parti",
+        "sehir": "Sakarya"
+      },
+      {
+        "isim_soyisim": "Mustafa ALKAYIŞ",
+        "parti": "AK Parti",
+        "sehir": "Adıyaman"
+      },
+      {
+        "isim_soyisim": "Mustafa ARSLAN",
+        "parti": "AK Parti",
+        "sehir": "Tokat"
+      },
+      {
+        "isim_soyisim": "Mustafa Baki ERSOY",
+        "parti": "MHP",
+        "sehir": "Kayseri"
+      },
+      {
+        "isim_soyisim": "Mustafa CANBEY",
+        "parti": "AK Parti",
+        "sehir": "Balıkesir"
+      },
+      {
+        "isim_soyisim": "Mustafa DEMİR",
+        "parti": "AK Parti",
+        "sehir": "İstanbul"
+      },
+      {
+        "isim_soyisim": "Mustafa Hakan ÖZER",
+        "parti": "AK Parti",
+        "sehir": "Konya"
+      },
+      {
+        "isim_soyisim": "Mustafa HAMARAT",
+        "parti": "AK Parti",
+        "sehir": "Ordu"
+      },
+      {
+        "isim_soyisim": "Mustafa KAPLAN",
+        "parti": "AK Parti",
+        "sehir": "Kırıkkale"
+      },
+      {
+        "isim_soyisim": "Mustafa KÖSE",
+        "parti": "AK Parti",
+        "sehir": "Antalya"
+      },
+      {
+        "isim_soyisim": "Mustafa Nedim YAMALI",
+        "parti": "AK Parti",
+        "sehir": "Ankara"
+      },
+      {
+        "isim_soyisim": "Mustafa OĞUZ",
+        "parti": "AK Parti",
+        "sehir": "Burdur"
+      },
+      {
+        "isim_soyisim": "Mustafa SAVAŞ",
+        "parti": "AK Parti",
+        "sehir": "Aydın"
+      },
+      {
+        "isim_soyisim": "Mustafa VARANK",
+        "parti": "AK Parti",
+        "sehir": "Bursa"
+      },
+      {
+        "isim_soyisim": "Mustafa YAVUZ",
+        "parti": "AK Parti",
+        "sehir": "Bursa"
+      },
+      {
+        "isim_soyisim": "Müşerref Pervin Tuba DURGUT",
+        "parti": "AK Parti",
+        "sehir": "İstanbul"
+      },
+      {
+        "isim_soyisim": "Naci ŞANLITÜRK",
+        "parti": "MHP",
+        "sehir": "Ordu"
+      },
+      {
+        "isim_soyisim": "Nazım ELMAS",
+        "parti": "AK Parti",
+        "sehir": "Giresun"
+      },
+      {
+        "isim_soyisim": "Necmettin ERKAN",
+        "parti": "AK Parti",
+        "sehir": "Kırşehir"
+      },
+      {
+        "isim_soyisim": "Nilgün ÖK",
+        "parti": "AK Parti",
+        "sehir": "Denizli"
+      },
+      {
+        "isim_soyisim": "Nilhan AYAN",
+        "parti": "AK Parti",
+        "sehir": "İstanbul"
+      },
+      {
+        "isim_soyisim": "Nurettin ALAN",
+        "parti": "AK Parti",
+        "sehir": "İstanbul"
+      },
+      {
+        "isim_soyisim": "Oğuz ÜÇÜNCÜ",
+        "parti": "AK Parti",
+        "sehir": "İstanbul"
+      },
+      {
+        "isim_soyisim": "Oğuzhan KAYA",
+        "parti": "AK Parti",
+        "sehir": "Çorum"
+      },
+      {
+        "isim_soyisim": "Orhan ATEŞ",
+        "parti": "AK Parti",
+        "sehir": "Bayburt"
+      },
+      {
+        "isim_soyisim": "Orhan KIRCALI",
+        "parti": "AK Parti",
+        "sehir": "Samsun"
+      },
+      {
+        "isim_soyisim": "Orhan YEGİN",
+        "parti": "AK Parti",
+        "sehir": "Ankara"
+      },
+      {
+        "isim_soyisim": "Osman GÖKÇEK",
+        "parti": "AK Parti",
+        "sehir": "Ankara"
+      },
+      {
+        "isim_soyisim": "Osman MESTEN",
+        "parti": "AK Parti",
+        "sehir": "Bursa"
+      },
+      {
+        "isim_soyisim": "Osman SAĞLAM",
+        "parti": "AK Parti",
+        "sehir": "Karaman"
+      },
+      {
+        "isim_soyisim": "Osman ZABUN",
+        "parti": "AK Parti",
+        "sehir": "Isparta"
+      },
+      {
+        "isim_soyisim": "Ömer Oruç Bilal DEBGİCİ",
+        "parti": "AK Parti",
+        "sehir": "Kahramanmaraş"
+      },
+      {
+        "isim_soyisim": "Ömer ÖZMEN",
+        "parti": "AK Parti",
+        "sehir": "Aydın"
+      },
+      {
+        "isim_soyisim": "Özlem ZENGİN",
+        "parti": "AK Parti",
+        "sehir": "İstanbul"
+      },
+      {
+        "isim_soyisim": "Pelin YILIK",
+        "parti": "MHP",
+        "sehir": "Çankırı"
+      },
+      {
+        "isim_soyisim": "Rabia İLHAN",
+        "parti": "AK Parti",
+        "sehir": "İstanbul"
+      },
+      {
+        "isim_soyisim": "Radiye Sezer KATIRCIOĞLU",
+        "parti": "AK Parti",
+        "sehir": "Kocaeli"
+      },
+      {
+        "isim_soyisim": "Ramazan KAŞLI",
+        "parti": "MHP",
+        "sehir": "Aksaray"
+      },
+      {
+        "isim_soyisim": "Refik ÖZEN",
+        "parti": "AK Parti",
+        "sehir": "Bursa"
+      },
+      {
+        "isim_soyisim": "Resul KURT",
+        "parti": "AK Parti",
+        "sehir": "Adıyaman"
+      },
+      {
+        "isim_soyisim": "Ruken KİLERCİ",
+        "parti": "AK Parti",
+        "sehir": "Ağrı"
+      },
+      {
+        "isim_soyisim": "Rukiye TOY",
+        "parti": "AK Parti",
+        "sehir": "Sivas"
+      },
+      {
+        "isim_soyisim": "Rümeysa KADAK",
+        "parti": "AK Parti",
+        "sehir": "İstanbul"
+      },
+      {
+        "isim_soyisim": "Sadettin HÜLAGÜ",
+        "parti": "AK Parti",
+        "sehir": "Kocaeli"
+      },
+      {
+        "isim_soyisim": "Saffet BOZKURT",
+        "parti": "AK Parti",
+        "sehir": "Zonguldak"
+      },
+      {
+        "isim_soyisim": "Sami ÇAKIR",
+        "parti": "AK Parti",
+        "sehir": "Kocaeli"
+      },
+      {
+        "isim_soyisim": "Sayın Bayar ÖZSOY",
+        "parti": "AK Parti",
+        "sehir": "Kayseri"
+      },
+      {
+        "isim_soyisim": "Seda GÖREN BÖLÜK",
+        "parti": "AK Parti",
+        "sehir": "İstanbul"
+      },
+      {
+        "isim_soyisim": "Seda SARIBAŞ",
+        "parti": "AK Parti",
+        "sehir": "Aydın"
+      },
+      {
+        "isim_soyisim": "Selman Oğuzhan ESER",
+        "parti": "AK Parti",
+        "sehir": "Karaman"
+      },
+      {
+        "isim_soyisim": "Selman ÖZBOYACI",
+        "parti": "AK Parti",
+        "sehir": "Konya"
+      },
+      {
+        "isim_soyisim": "Semih IŞIKVER",
+        "parti": "MHP",
+        "sehir": "Elazığ"
+      },
+      {
+        "isim_soyisim": "Serap YAZICI ÖZBUDUN",
+        "parti": "AK Parti",
+        "sehir": "Antalya"
+      },
+      {
+        "isim_soyisim": "Serkan BAYRAM",
+        "parti": "AK Parti",
+        "sehir": "İstanbul"
+      },
+      {
+        "isim_soyisim": "Sermet ATAY",
+        "parti": "MHP",
+        "sehir": "Gaziantep"
+      },
+      {
+        "isim_soyisim": "Seydi GÜLSOY",
+        "parti": "AK Parti",
+        "sehir": "Osmaniye"
+      },
+      {
+        "isim_soyisim": "Seyithan İZSİZ",
+        "parti": "AK Parti",
+        "sehir": "İstanbul"
+      },
+      {
+        "isim_soyisim": "Suat PAMUKÇU",
+        "parti": "AK Parti",
+        "sehir": "İstanbul"
+      },
+      {
+        "isim_soyisim": "Suna KEPOLU ATAMAN",
+        "parti": "AK Parti",
+        "sehir": "Diyarbakır"
+      },
+      {
+        "isim_soyisim": "Sunay KARAMIK",
+        "parti": "AK Parti",
+        "sehir": "Adana"
+      },
+      {
+        "isim_soyisim": "Süleyman KARAMAN",
+        "parti": "AK Parti",
+        "sehir": "Erzincan"
+      },
+      {
+        "isim_soyisim": "Süleyman ÖZGÜN",
+        "parti": "AK Parti",
+        "sehir": "Nevşehir"
+      },
+      {
+        "isim_soyisim": "Süleyman ŞAHAN",
+        "parti": "AK Parti",
+        "sehir": "Yozgat"
+      },
+      {
+        "isim_soyisim": "Şaban ÇOPUROĞLU",
+        "parti": "AK Parti",
+        "sehir": "Kayseri"
+      },
+      {
+        "isim_soyisim": "Şahin TİN",
+        "parti": "AK Parti",
+        "sehir": "Denizli"
+      },
+      {
+        "isim_soyisim": "Şamil AYRIM",
+        "parti": "AK Parti",
+        "sehir": "İstanbul"
+      },
+      {
+        "isim_soyisim": "Şengül KARSLI",
+        "parti": "AK Parti",
+        "sehir": "İstanbul"
+      },
+      {
+        "isim_soyisim": "Tamer AKKAL",
+        "parti": "AK Parti",
+        "sehir": "Manisa"
+      },
+      {
+        "isim_soyisim": "Tamer OSMANAĞAOĞLU",
+        "parti": "MHP",
+        "sehir": "İzmir"
+      },
+      {
+        "isim_soyisim": "Tuba KÖKSAL",
+        "parti": "AK Parti",
+        "sehir": "Kahramanmaraş"
+      },
+      {
+        "isim_soyisim": "Tuba VURAL ÇOKAL",
+        "parti": "AK Parti",
+        "sehir": "Antalya"
+      },
+      {
+        "isim_soyisim": "Turan BEDİRHANOĞLU",
+        "parti": "AK Parti",
+        "sehir": "Bitlis"
+      },
+      {
+        "isim_soyisim": "Ünal KARAMAN",
+        "parti": "AK Parti",
+        "sehir": "Konya"
+      },
+      {
+        "isim_soyisim": "Vahit KİRİŞCİ",
+        "parti": "AK Parti",
+        "sehir": "Kahramanmaraş"
+      },
+      {
+        "isim_soyisim": "Vehbi KOÇ",
+        "parti": "AK Parti",
+        "sehir": "Trabzon"
+      },
+      {
+        "isim_soyisim": "Veysal TİPİOĞLU",
+        "parti": "AK Parti",
+        "sehir": "Kocaeli"
+      },
+      {
+        "isim_soyisim": "Yahya ÇELİK",
+        "parti": "AK Parti",
+        "sehir": "İstanbul"
+      },
+      {
+        "isim_soyisim": "Yakup OTGÖZ",
+        "parti": "AK Parti",
+        "sehir": "Muğla"
+      },
+      {
+        "isim_soyisim": "Yaşar KIRKPINAR",
+        "parti": "AK Parti",
+        "sehir": "İzmir"
+      },
+      {
+        "isim_soyisim": "Yılmaz BÜYÜKAYDIN",
+        "parti": "AK Parti",
+        "sehir": "Trabzon"
+      },
+      {
+        "isim_soyisim": "Yusuf AHLATCI",
+        "parti": "AK Parti",
+        "sehir": "Çorum"
+      },
+      {
+        "isim_soyisim": "Yusuf BEYAZIT",
+        "parti": "AK Parti",
+        "sehir": "Tokat"
+      },
+      {
+        "isim_soyisim": "Yusuf Ziya ALDATMAZ",
+        "parti": "AK Parti",
+        "sehir": "Bartın"
+      },
+      {
+        "isim_soyisim": "Yücel Arzen HACIOĞULLARI",
+        "parti": "AK Parti",
+        "sehir": "İstanbul"
+      },
+      {
+        "isim_soyisim": "Yücel BULUT",
+        "parti": "MHP",
+        "sehir": "Tokat"
+      },
+      {
+        "isim_soyisim": "Yüksel COŞKUNYÜREK",
+        "parti": "AK Parti",
+        "sehir": "Bolu"
+      },
+      {
+        "isim_soyisim": "Zehranur AYDEMİR",
+        "parti": "AK Parti",
+        "sehir": "Ankara"
+      },
+      {
+        "isim_soyisim": "Zeki KORKUTATA",
+        "parti": "AK Parti",
+        "sehir": "Bingöl"
+      },
+      {
+        "isim_soyisim": "Zeynep YILDIZ",
+        "parti": "AK Parti",
+        "sehir": "Ankara"
+      },
+      {
+        "isim_soyisim": "Zuhal KARAKOÇ DORA",
+        "parti": "MHP",
+        "sehir": "Kahramanmaraş"
+      }
+    ],
+    "reddedenler": [
+      {
+        "parti": "İYİ Parti",
+        "sehir": "Hatay"
+      },
+      {
+        "parti": "TİP",
+        "sehir": "İstanbul"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "Manisa"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "Kütahya"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "İstanbul"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "Uşak"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "Mersin"
+      },
+      {
+        "parti": "YENİDEN REFAH",
+        "sehir": "Konya"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "Antalya"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "Ankara"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "Kayseri"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "Sakarya"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "Adana"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "Antalya"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "Ankara"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "Bartın"
+      },
+      {
+        "parti": "DEM PARTİ",
+        "sehir": "Tunceli"
+      },
+      {
+        "parti": "İYİ Parti",
+        "sehir": "Adana"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "Konya"
+      },
+      {
+        "parti": "DEM PARTİ",
+        "sehir": "Mardin"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "Adana"
+      },
+      {
+        "parti": "YENİ YOL",
+        "sehir": "İstanbul"
+      },
+      {
+        "parti": "İYİ Parti",
+        "sehir": "İstanbul"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "Adana"
+      },
+      {
+        "parti": "İYİ Parti",
+        "sehir": "Mersin"
+      },
+      {
+        "parti": "YENİ YOL",
+        "sehir": "İstanbul"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "Antalya"
+      },
+      {
+        "parti": "YENİ YOL",
+        "sehir": "Bursa"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "Karabük"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "Ankara"
+      },
+      {
+        "parti": "YENİDEN REFAH",
+        "sehir": "İstanbul"
+      },
+      {
+        "parti": "YENİ YOL",
+        "sehir": "İstanbul"
+      },
+      {
+        "parti": "YENİ YOL",
+        "sehir": "İstanbul"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "Giresun"
+      },
+      {
+        "parti": "TİP",
+        "sehir": "İstanbul"
+      },
+      {
+        "parti": "YENİ YOL",
+        "sehir": "Gaziantep"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "Aydın"
+      },
+      {
+        "parti": "BAĞIMSIZ",
+        "sehir": "İstanbul"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "Tekirdağ"
+      },
+      {
+        "parti": "HÜDA PAR",
+        "sehir": "Mersin"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "İstanbul"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "Muğla"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "Mersin"
+      },
+      {
+        "parti": "DEM PARTİ",
+        "sehir": "Antalya"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "Kocaeli"
+      },
+      {
+        "parti": "YENİ YOL",
+        "sehir": "İstanbul"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "Bursa"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "Gaziantep"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "Isparta"
+      },
+      {
+        "parti": "DEM PARTİ",
+        "sehir": "Bitlis"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "Aydın"
+      },
+      {
+        "parti": "İYİ Parti",
+        "sehir": "İzmir"
+      },
+      {
+        "parti": "DEM PARTİ",
+        "sehir": "İzmir"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "Eskişehir"
+      },
+      {
+        "parti": "YENİ YOL",
+        "sehir": "Ankara"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "Tekirdağ"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "Kars"
+      },
+      {
+        "parti": "GELECEK Partisi",
+        "sehir": "İstanbul"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "Karaman"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "Burdur"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "Eskişehir"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "Tokat"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "İstanbul"
+      },
+      {
+        "parti": "DEM PARTİ",
+        "sehir": "Mardin"
+      },
+      {
+        "parti": "DEM PARTİ",
+        "sehir": "İstanbul"
+      },
+      {
+        "parti": "İYİ Parti",
+        "sehir": "Kocaeli"
+      },
+      {
+        "parti": "SAADET Partisi",
+        "sehir": "Kayseri"
+      },
+      {
+        "parti": "YENİ YOL",
+        "sehir": "İstanbul"
+      },
+      {
+        "parti": "İYİ Parti",
+        "sehir": "Edirne"
+      },
+      {
+        "parti": "YENİDEN REFAH",
+        "sehir": "Kocaeli"
+      },
+      {
+        "parti": "YENİ YOL",
+        "sehir": "Bursa"
+      },
+      {
+        "parti": "YENİ YOL",
+        "sehir": "Mersin"
+      },
+      {
+        "parti": "YENİ YOL",
+        "sehir": "Samsun"
+      },
+      {
+        "parti": "İYİ Parti",
+        "sehir": "İstanbul"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "Çorum"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "Gaziantep"
+      },
+      {
+        "parti": "YENİDEN REFAH",
+        "sehir": "İstanbul"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "Samsun"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "Ankara"
+      },
+      {
+        "parti": "YENİ YOL",
+        "sehir": "İzmir"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "Antalya"
+      },
+      {
+        "parti": "YENİ YOL",
+        "sehir": "İstanbul"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "Diyarbakır"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "Kocaeli"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "Adana"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "Kocaeli"
+      },
+      {
+        "parti": "YENİ YOL",
+        "sehir": "Hatay"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "Hatay"
+      },
+      {
+        "parti": "DEM PARTİ",
+        "sehir": "Şırnak"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "İstanbul"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "Bursa"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "Tekirdağ"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "İstanbul"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "Ankara"
+      },
+      {
+        "parti": "DEM PARTİ",
+        "sehir": "Hakkari"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "Bursa"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "Adana"
+      },
+      {
+        "parti": "DEM PARTİ",
+        "sehir": "Kocaeli"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "Niğde"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "Ardahan"
+      },
+      {
+        "parti": "DEM PARTİ",
+        "sehir": "Mersin"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "Amasya"
+      },
+      {
+        "parti": "DEM PARTİ",
+        "sehir": "Siirt"
+      },
+      {
+        "parti": "YENİ YOL",
+        "sehir": "Ankara"
+      },
+      {
+        "parti": "YENİ YOL",
+        "sehir": "Adana"
+      },
+      {
+        "parti": "TİP",
+        "sehir": "İstanbul"
+      },
+      {
+        "parti": "YENİ YOL",
+        "sehir": "Muğla"
+      },
+      {
+        "parti": "GELECEK Partisi",
+        "sehir": "İstanbul"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "Manisa"
+      },
+      {
+        "parti": "YENİ YOL",
+        "sehir": "Denizli"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "Ankara"
+      },
+      {
+        "parti": "HÜDA PAR",
+        "sehir": "Batman"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "Balıkesir"
+      },
+      {
+        "parti": "EMEP",
+        "sehir": "Gaziantep"
+      },
+      {
+        "parti": "DEM PARTİ",
+        "sehir": "Diyarbakır"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "Ordu"
+      },
+      {
+        "parti": "DEM PARTİ",
+        "sehir": "Muş"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "Trabzon"
+      },
+      {
+        "parti": "DEM PARTİ",
+        "sehir": "Van"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "İstanbul"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "Muğla"
+      },
+      {
+        "parti": "HÜDA PAR",
+        "sehir": "Gaziantep"
+      },
+      {
+        "parti": "YENİ YOL",
+        "sehir": "Antalya"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "Yalova"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "Rize"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "Mersin"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "Düzce"
+      },
+      {
+        "parti": "İYİ Parti",
+        "sehir": "Aksaray"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "İstanbul"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "Bolu"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "Artvin"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "Sivas"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "Eskişehir"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "İzmir"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "Kırklareli"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "Malatya"
+      },
+      {
+        "parti": "İYİ Parti",
+        "sehir": "Denizli"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "Bilecik"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "İstanbul"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "İstanbul"
+      }
+    ],
+    "katilmayanlar": [
+      {
+        "parti": "AK Parti",
+        "sehir": "Gaziantep"
+      },
+      {
+        "parti": "AK Parti",
+        "sehir": "Malatya"
+      },
+      {
+        "parti": "DEM PARTİ",
+        "sehir": "Diyarbakır"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "Ankara"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "Edirne"
+      },
+      {
+        "parti": "AK Parti",
+        "sehir": "Yalova"
+      },
+      {
+        "parti": "İYİ Parti",
+        "sehir": "Ankara"
+      },
+      {
+        "parti": "AK Parti",
+        "sehir": "Manisa"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "İzmir"
+      },
+      {
+        "parti": "BAĞIMSIZ",
+        "sehir": "Adana"
+      },
+      {
+        "parti": "DEM PARTİ",
+        "sehir": "Mersin"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "Kahramanmaraş"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "Osmaniye"
+      },
+      {
+        "parti": "AK Parti",
+        "sehir": "Çanakkale"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "İstanbul"
+      },
+      {
+        "parti": "DEM PARTİ",
+        "sehir": "Şırnak"
+      },
+      {
+        "parti": "AK Parti",
+        "sehir": "Eskişehir"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "Sinop"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "Manisa"
+      },
+      {
+        "parti": "AK Parti",
+        "sehir": "Şanlıurfa"
+      },
+      {
+        "parti": "AK Parti",
+        "sehir": "Balıkesir"
+      },
+      {
+        "parti": "DEM PARTİ",
+        "sehir": "Diyarbakır"
+      },
+      {
+        "parti": "BAĞIMSIZ",
+        "sehir": "Balıkesir"
+      },
+      {
+        "parti": "DEM PARTİ",
+        "sehir": "İzmir"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "Aydın"
+      },
+      {
+        "parti": "MHP",
+        "sehir": "İstanbul"
+      },
+      {
+        "parti": "DEM PARTİ",
+        "sehir": "İstanbul"
+      },
+      {
+        "parti": "BAĞIMSIZ",
+        "sehir": "Tekirdağ"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "İstanbul"
+      },
+      {
+        "parti": "DEM PARTİ",
+        "sehir": "İstanbul"
+      },
+      {
+        "parti": "DEM PARTİ",
+        "sehir": "Diyarbakır"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "Muğla"
+      },
+      {
+        "parti": "DEM PARTİ",
+        "sehir": "İstanbul"
+      },
+      {
+        "parti": "AK Parti",
+        "sehir": "Sakarya"
+      },
+      {
+        "parti": "DBP",
+        "sehir": "İstanbul"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "Zonguldak"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "İzmir"
+      },
+      {
+        "parti": "AK Parti",
+        "sehir": "Osmaniye"
+      },
+      {
+        "parti": "MHP",
+        "sehir": "Osmaniye"
+      },
+      {
+        "parti": "DEM PARTİ",
+        "sehir": "Şanlıurfa"
+      },
+      {
+        "parti": "İYİ Parti",
+        "sehir": "İzmir"
+      },
+      {
+        "parti": "MHP",
+        "sehir": "İstanbul"
+      },
+      {
+        "parti": "BAĞIMSIZ",
+        "sehir": "Edirne"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "İzmir"
+      },
+      {
+        "parti": "AK Parti",
+        "sehir": "Bursa"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "İstanbul"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "Balıkesir"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "İstanbul"
+      },
+      {
+        "parti": "İYİ Parti",
+        "sehir": "Samsun"
+      },
+      {
+        "parti": "AK Parti",
+        "sehir": "İstanbul"
+      },
+      {
+        "parti": "İYİ Parti",
+        "sehir": "İstanbul"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "Zonguldak"
+      },
+      {
+        "parti": "AK Parti",
+        "sehir": "İzmir"
+      },
+      {
+        "parti": "AK Parti",
+        "sehir": "Uşak"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "Kırklareli"
+      },
+      {
+        "parti": "AK Parti",
+        "sehir": "Eskişehir"
+      },
+      {
+        "parti": "AK Parti",
+        "sehir": "Kastamonu"
+      },
+      {
+        "parti": "DEM PARTİ",
+        "sehir": "Şanlıurfa"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "İstanbul"
+      },
+      {
+        "parti": "MHP",
+        "sehir": "İstanbul"
+      },
+      {
+        "parti": "MHP",
+        "sehir": "Nevşehir"
+      },
+      {
+        "parti": "AK Parti",
+        "sehir": "Ankara"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "Ankara"
+      },
+      {
+        "parti": "DEM PARTİ",
+        "sehir": "Mardin"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "İstanbul"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "İzmir"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "İstanbul"
+      },
+      {
+        "parti": "DEM PARTİ",
+        "sehir": "Van"
+      },
+      {
+        "parti": "DEM PARTİ",
+        "sehir": "Van"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "Denizli"
+      },
+      {
+        "parti": "DEM PARTİ",
+        "sehir": "Kars"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "Elazığ"
+      },
+      {
+        "parti": "İYİ Parti",
+        "sehir": "Afyonkarahisar"
+      },
+      {
+        "parti": "DEM PARTİ",
+        "sehir": "Diyarbakır"
+      },
+      {
+        "parti": "AK Parti",
+        "sehir": "İstanbul"
+      },
+      {
+        "parti": "BAĞIMSIZ",
+        "sehir": "Isparta"
+      },
+      {
+        "parti": "İYİ Parti",
+        "sehir": "Bursa"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "Mersin"
+      },
+      {
+        "parti": "DP",
+        "sehir": "İzmir"
+      },
+      {
+        "parti": "DEM PARTİ",
+        "sehir": "Ağrı"
+      },
+      {
+        "parti": "AK Parti",
+        "sehir": "Kayseri"
+      },
+      {
+        "parti": "AK Parti",
+        "sehir": "İstanbul"
+      },
+      {
+        "parti": "AK Parti",
+        "sehir": "Hatay"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "İstanbul"
+      },
+      {
+        "parti": "MHP",
+        "sehir": "Samsun"
+      },
+      {
+        "parti": "AK Parti",
+        "sehir": "Malatya"
+      },
+      {
+        "parti": "YENİ YOL",
+        "sehir": "Kahramanmaraş"
+      },
+      {
+        "parti": "EMEP",
+        "sehir": "İstanbul"
+      },
+      {
+        "parti": "BAĞIMSIZ",
+        "sehir": "Bolu"
+      },
+      {
+        "parti": "AK Parti",
+        "sehir": "Kütahya"
+      },
+      {
+        "parti": "MHP",
+        "sehir": "İstanbul"
+      },
+      {
+        "parti": "AK Parti",
+        "sehir": "Balıkesir"
+      },
+      {
+        "parti": "MHP",
+        "sehir": "Kayseri"
+      },
+      {
+        "parti": "MHP",
+        "sehir": "Bursa"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "Çanakkale"
+      },
+      {
+        "parti": "MHP",
+        "sehir": "İstanbul"
+      },
+      {
+        "parti": "MHP",
+        "sehir": "Erzurum"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "Bursa"
+      },
+      {
+        "parti": "AK Parti",
+        "sehir": "Antalya"
+      },
+      {
+        "parti": "DBP",
+        "sehir": "Batman"
+      },
+      {
+        "parti": "BAĞIMSIZ",
+        "sehir": "Ankara"
+      },
+      {
+        "parti": "AK Parti",
+        "sehir": "Ankara"
+      },
+      {
+        "parti": "AK Parti",
+        "sehir": "Ankara"
+      },
+      {
+        "parti": "AK Parti",
+        "sehir": "Ankara"
+      },
+      {
+        "parti": "İYİ Parti",
+        "sehir": "Yozgat"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "İzmir"
+      },
+      {
+        "parti": "DEM PARTİ",
+        "sehir": "Van"
+      },
+      {
+        "parti": "AK Parti",
+        "sehir": "Ordu"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "Şanlıurfa"
+      },
+      {
+        "parti": "AK Parti",
+        "sehir": "Kocaeli"
+      },
+      {
+        "parti": "MHP",
+        "sehir": "Malatya"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "Hatay"
+      },
+      {
+        "parti": "DEM PARTİ",
+        "sehir": "Diyarbakır"
+      },
+      {
+        "parti": "İYİ Parti",
+        "sehir": "Gaziantep"
+      },
+      {
+        "parti": "AK Parti",
+        "sehir": "Samsun"
+      },
+      {
+        "parti": "DSP",
+        "sehir": "İstanbul"
+      },
+      {
+        "parti": "DEM PARTİ",
+        "sehir": "Batman"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "İzmir"
+      },
+      {
+        "parti": "DEM PARTİ",
+        "sehir": "Şırnak"
+      },
+      {
+        "parti": "DEM PARTİ",
+        "sehir": "Erzurum"
+      },
+      {
+        "parti": "YENİ YOL",
+        "sehir": "Ankara"
+      },
+      {
+        "parti": "İYİ Parti",
+        "sehir": "Muğla"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "Kırşehir"
+      },
+      {
+        "parti": "AK Parti",
+        "sehir": "Kahramanmaraş"
+      },
+      {
+        "parti": "DEM PARTİ",
+        "sehir": "Şanlıurfa"
+      },
+      {
+        "parti": "AK Parti",
+        "sehir": "Zonguldak"
+      },
+      {
+        "parti": "AK Parti",
+        "sehir": "Mardin"
+      },
+      {
+        "parti": "MHP",
+        "sehir": "Sakarya"
+      },
+      {
+        "parti": "AK Parti",
+        "sehir": "Çankırı"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "İzmir"
+      },
+      {
+        "parti": "AK Parti",
+        "sehir": "Manisa"
+      },
+      {
+        "parti": "MHP",
+        "sehir": "Gümüşhane"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "Ordu"
+      },
+      {
+        "parti": "İYİ Parti",
+        "sehir": "İstanbul"
+      },
+      {
+        "parti": "BAĞIMSIZ",
+        "sehir": "Kilis"
+      },
+      {
+        "parti": "AK Parti",
+        "sehir": "İstanbul"
+      },
+      {
+        "parti": "MHP",
+        "sehir": "Konya"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "Erzincan"
+      },
+      {
+        "parti": "AK Parti",
+        "sehir": "Trabzon"
+      },
+      {
+        "parti": "BAĞIMSIZ",
+        "sehir": "İstanbul"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "İstanbul"
+      },
+      {
+        "parti": "AK Parti",
+        "sehir": "Sinop"
+      },
+      {
+        "parti": "DEM PARTİ",
+        "sehir": "Ağrı"
+      },
+      {
+        "parti": "AK Parti",
+        "sehir": "İstanbul"
+      },
+      {
+        "parti": "AK Parti",
+        "sehir": "Mersin"
+      },
+      {
+        "parti": "AK Parti",
+        "sehir": "Konya"
+      },
+      {
+        "parti": "DEM PARTİ",
+        "sehir": "Diyarbakır"
+      },
+      {
+        "parti": "AK Parti",
+        "sehir": "Adana"
+      },
+      {
+        "parti": "DEM PARTİ",
+        "sehir": "Bingöl"
+      },
+      {
+        "parti": "AK Parti",
+        "sehir": "Ankara"
+      },
+      {
+        "parti": "İYİ Parti",
+        "sehir": "Aydın"
+      },
+      {
+        "parti": "DEM PARTİ",
+        "sehir": "Şanlıurfa"
+      },
+      {
+        "parti": "DEM PARTİ",
+        "sehir": "İstanbul"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "Çanakkale"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "İstanbul"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "Manisa"
+      },
+      {
+        "parti": "DEM PARTİ",
+        "sehir": "Hakkari"
+      },
+      {
+        "parti": "DEM PARTİ",
+        "sehir": "Van"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "İzmir"
+      },
+      {
+        "parti": "İYİ Parti",
+        "sehir": "Çanakkale"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "İzmir"
+      },
+      {
+        "parti": "MHP",
+        "sehir": "Ankara"
+      },
+      {
+        "parti": "MHP",
+        "sehir": "Kocaeli"
+      },
+      {
+        "parti": "DEM PARTİ",
+        "sehir": "Mardin"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "İzmir"
+      },
+      {
+        "parti": "AK Parti",
+        "sehir": "Erzurum"
+      },
+      {
+        "parti": "İYİ Parti",
+        "sehir": "Tekirdağ"
+      },
+      {
+        "parti": "DEM PARTİ",
+        "sehir": "Bitlis"
+      },
+      {
+        "parti": "AK Parti",
+        "sehir": "İstanbul"
+      },
+      {
+        "parti": "DEM PARTİ",
+        "sehir": "Diyarbakır"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "Hatay"
+      },
+      {
+        "parti": "AK Parti",
+        "sehir": "İstanbul"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "İzmir"
+      },
+      {
+        "parti": "DEM PARTİ",
+        "sehir": "Ağrı"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "Antalya"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "Aydın"
+      },
+      {
+        "parti": "AK Parti",
+        "sehir": "İstanbul"
+      },
+      {
+        "parti": "DEM PARTİ",
+        "sehir": "Muş"
+      },
+      {
+        "parti": "AK Parti",
+        "sehir": "İzmir"
+      },
+      {
+        "parti": "İYİ Parti",
+        "sehir": "Manisa"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "Denizli"
+      },
+      {
+        "parti": "AK Parti",
+        "sehir": "Konya"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "Ankara"
+      },
+      {
+        "parti": "AK Parti",
+        "sehir": "İstanbul"
+      },
+      {
+        "parti": "DEM PARTİ",
+        "sehir": "Adana"
+      },
+      {
+        "parti": "DEM PARTİ",
+        "sehir": "Siirt"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "İstanbul"
+      },
+      {
+        "parti": "İYİ Parti",
+        "sehir": "Balıkesir"
+      },
+      {
+        "parti": "İYİ Parti",
+        "sehir": "Antalya"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "Ankara"
+      },
+      {
+        "parti": "BAĞIMSIZ",
+        "sehir": "Sakarya"
+      },
+      {
+        "parti": "AK Parti",
+        "sehir": "İstanbul"
+      },
+      {
+        "parti": "MHP",
+        "sehir": "Çorum"
+      },
+      {
+        "parti": "AK Parti",
+        "sehir": "Ankara"
+      },
+      {
+        "parti": "DEM PARTİ",
+        "sehir": "Hakkari"
+      },
+      {
+        "parti": "MHP",
+        "sehir": "Ankara"
+      },
+      {
+        "parti": "İYİ Parti",
+        "sehir": "Trabzon"
+      },
+      {
+        "parti": "AK Parti",
+        "sehir": "Ankara"
+      },
+      {
+        "parti": "AK Parti",
+        "sehir": "İstanbul"
+      },
+      {
+        "parti": "DEM PARTİ",
+        "sehir": "Iğdır"
+      },
+      {
+        "parti": "AK Parti",
+        "sehir": "Samsun"
+      },
+      {
+        "parti": "İYİ Parti",
+        "sehir": "Ankara"
+      },
+      {
+        "parti": "İYİ Parti",
+        "sehir": "Bursa"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "İzmir"
+      },
+      {
+        "parti": "AK Parti",
+        "sehir": "İstanbul"
+      },
+      {
+        "parti": "HÜDA PAR",
+        "sehir": "İstanbul"
+      },
+      {
+        "parti": "CHP",
+        "sehir": "İstanbul"
+      },
+      {
+        "parti": "DEM PARTİ",
+        "sehir": "Batman"
+      },
+      {
+        "parti": "AK Parti",
+        "sehir": "Konya"
+      },
+      {
+        "parti": "DEM PARTİ",
+        "sehir": "Van"
+      }
+    ]
+  }
+}
